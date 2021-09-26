@@ -1,0 +1,20 @@
+name: B
+main: me.Baconerd.test.Main
+version: 1.0
+commands:
+  gg:
+    aliases: []
+  speed:
+    aliases: []
+  prac:
+    aliases: [practice, practicedeeznuts, unprac, unpractice]
+  pay:
+    aliases: []
+  add:
+    aliases: []
+  remove:
+    aliases: []
+  set:
+    aliases: []
+  balance:
+    aliases: [bal, amount]
